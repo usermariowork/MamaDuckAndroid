@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313039696219",
+    "project_id": "mamaduck-23f74",
+    "storage_bucket": "mamaduck-23f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313039696219:android:1202c7e72c7b720c466a7e",
+        "android_client_info": {
+          "package_name": "com.example.mamaduck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313039696219-vsbgr9jlcdu8mu888bgh9h35oj156dlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mamaduck",
+            "certificate_hash": "6e6855a2b4e6257f808af3386708b5b9acb3c066"
+          }
+        },
+        {
+          "client_id": "313039696219-u26pbib3nk7jrp1bl144tbgm78n0u0hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ODOkK4Bx7QaKrxr6Qb0sH9LNzwh28QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313039696219-u26pbib3nk7jrp1bl144tbgm78n0u0hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
